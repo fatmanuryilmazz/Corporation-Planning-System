@@ -102,6 +102,7 @@
             this.Controls.Add(this.button1);
             this.Name = "departmanformu";
             this.Text = "departmanformu";
+            this.Load += new System.EventHandler(this.departmanformu_Load);
             this.ResumeLayout(false);
 
         }

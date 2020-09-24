@@ -39,7 +39,7 @@ namespace projen
 
         private void button5_Click(object sender, EventArgs e)
         {
-            (new satısformu()).Show();
+            (new satisForm()).Show();
         }
 
         private void button3_Click_1(object sender, EventArgs e)
@@ -48,6 +48,11 @@ namespace projen
         }
 
         private void button3_Click_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void departmanformu_Load(object sender, EventArgs e)
         {
 
         }
