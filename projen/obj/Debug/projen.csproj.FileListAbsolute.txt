@@ -1,0 +1,44 @@
+c:\users\pc\documents\visual studio 2015\Projects\projen\projen\bin\Debug\projen.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\projen\projen\bin\Debug\projen.exe
+c:\users\pc\documents\visual studio 2015\Projects\projen\projen\bin\Debug\projen.pdb
+c:\users\pc\documents\visual studio 2015\Projects\projen\projen\bin\Debug\MySql.Data.dll
+c:\users\pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.exe
+c:\users\pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.bolumGüncellemeform.resources
+C:\Users\Pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.departmanformu.resources
+C:\Users\Pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.personelform.resources
+C:\Users\Pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.musteriformu.resources
+C:\Users\Pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.musteriguncellemeformu.resources
+C:\Users\Pc\documents\visual studio 2015\Projects\projen\projen\obj\Debug\projen.urunform.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\projen\projen\obj\Debug\projen.personelguncellemeform.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\projen\projen\obj\Debug\projen.satisGuncelleFormu.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\projen\projen\obj\Debug\projen.satısformu.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\projen\projen\obj\Debug\projen.urunguncelleformu.resources
+C:\Users\Pc\Desktop\nyp\projen\projen\bin\Debug\projen.exe.config
+C:\Users\Pc\Desktop\nyp\projen\projen\obj\Debug\projen.exe
+C:\Users\Pc\Desktop\nyp\projen\projen\obj\Debug\projen.pdb
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\bin\Debug\projen.exe.config
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.exe
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.pdb
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\bin\Debug\projen.exe
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\bin\Debug\projen.pdb
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\bin\Debug\MySql.Data.dll
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.bolumGüncellemeform.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.departmanformu.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.Form1.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.musteriformu.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.musteriguncellemeformu.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.personelform.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.personelguncellemeform.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.Properties.Resources.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.satisGuncelleFormu.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.satısformu.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.urunform.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.urunguncelleformu.resources
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\dersler\nyp\projen\projen\obj\Debug\projen.satisForm.resources
