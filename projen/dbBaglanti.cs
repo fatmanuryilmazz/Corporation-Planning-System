@@ -11,7 +11,7 @@ namespace projen
     {
         internal MySqlConnection baglantiGetir()
         {
-            MySqlConnection baglanti = new MySqlConnection("Server=---.--.--.-;Database=--------------;Uid=------------;Password=------------");
+            MySqlConnection baglanti = new MySqlConnection("Server=172.21.54.3;Database=fatmanuryilmazdb;Uid=fatmanuryilmaz;Password=yilmaz.123");
             baglanti.Open();
             return baglanti;
         }

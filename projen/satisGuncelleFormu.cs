@@ -30,7 +30,7 @@ namespace projen
 
         private void button1_Click(object sender, EventArgs e)
         {
-            (new satisService()).satisguncelle(Convert.ToInt32(comboBox1.SelectedItem), Convert.ToInt32(comboBox2.SelectedItem), Convert.ToInt32(comboBox3.SelectedItem),Convert.ToInt32( textBox1.Text));
+            (new satisService()).satisguncelle(Convert.ToInt32(comboBox1.SelectedIndex), Convert.ToInt32(comboBox2.SelectedIndex), Convert.ToInt32(comboBox3.SelectedIndex),Convert.ToInt32( textBox1.Text));
         }
     }
 }
